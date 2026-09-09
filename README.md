@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Okechukwu Promise</h1>
+<h3 align="center">ML/AI & Physics Student | MERN Stack Developer | Building practical solutions with technology 🚀</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okechukwupromise49-art&label=Profile%20views&color=0e75b6&style=flat" alt="okechukwupromise49-art" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okechukwupromise49-art" alt="okechukwupromise49-art" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision**
 
+- 🌱 I’m currently learning **building Student connect**
+
 - 👯 I’m looking to collaborate on **Ai project and edutech development**
+
+- 🤝 I’m looking for help with **Connecting with experienced developers, engineers, and tech builders**
+
+- 💬 Ask me about **Developing practical solutions focused on real-world problems.**
 
 - 📫 How to reach me **okechukwupromise49@gmail.com**
 
+- 📄 Know about my experiences [Learning by building, debugging, and solving real-world problems.](Learning by building, debugging, and solving real-world problems.)
+
+- ⚡ Fun fact **building**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/star tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="star tech" height="30" width="40" /></a>
+<a href="https://twitter.com/startech567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="startech567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/okehukwu promise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okehukwu promise" height="30" width="40" /></a>
 <a href="https://fb.com/star tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="star tech" height="30" width="40" /></a>
+<a href="https://instagram.com/okechukwu promise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okechukwu promise" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
